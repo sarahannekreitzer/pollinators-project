@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pollinators-project/static/css/main.d452479c.chunk.css",
+    "main.js": "/pollinators-project/static/js/main.30fbfa7f.chunk.js",
+    "main.js.map": "/pollinators-project/static/js/main.30fbfa7f.chunk.js.map",
+    "runtime~main.js": "/pollinators-project/static/js/runtime~main.bb85de47.js",
+    "runtime~main.js.map": "/pollinators-project/static/js/runtime~main.bb85de47.js.map",
+    "static/css/2.c0851dc3.chunk.css": "/pollinators-project/static/css/2.c0851dc3.chunk.css",
+    "static/js/2.0fbb3a09.chunk.js": "/pollinators-project/static/js/2.0fbb3a09.chunk.js",
+    "static/js/2.0fbb3a09.chunk.js.map": "/pollinators-project/static/js/2.0fbb3a09.chunk.js.map",
+    "index.html": "/pollinators-project/index.html",
+    "precache-manifest.06e86d90fdd4ad94c096d453e54d5358.js": "/pollinators-project/precache-manifest.06e86d90fdd4ad94c096d453e54d5358.js",
+    "service-worker.js": "/pollinators-project/service-worker.js",
+    "static/css/2.c0851dc3.chunk.css.map": "/pollinators-project/static/css/2.c0851dc3.chunk.css.map",
+    "static/css/main.d452479c.chunk.css.map": "/pollinators-project/static/css/main.d452479c.chunk.css.map",
+    "static/media/style.css": "/pollinators-project/static/media/paper-background-2.a423efc2.jpg"
+  }
+}
